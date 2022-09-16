@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+}
+
+.selections {
+    display: flex;
+    margin: 1rem;
+}
+
+.selection {
+    margin: 3rem;
+}
